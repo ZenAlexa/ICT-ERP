@@ -1,4 +1,4 @@
-# seniorERPeak
+# ERPeak
 The development framework is based on the ruoyi-Vue front-end & back-end separation version
 
 
@@ -13,7 +13,7 @@ The development framework is based on the ruoyi-Vue front-end & back-end separat
 # License
 MIT License
 
-Copyright (c) 2024 SeniorERPeak
+Copyright (c) 2024 ERPeak
 
 # Work
 Establishing data flow
